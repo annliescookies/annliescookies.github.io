@@ -43,5 +43,14 @@
     "imagen": "/assets/hero.jpg",
     "posicion": "60% 91%",
     "disponible": true
+  },
+  {
+    "id": 6,
+    "nombre": "Snickers",
+    "descripcion": "Cookie de chocolate con trozos de Snickers, cacahuate tostado y caramelo cremoso.",
+    "precio": 2200,
+    "imagen": "/assets/Galleta%20Ferrero.jpeg",
+    "posicion": "center 66%",
+    "disponible": true
   }
 ]
