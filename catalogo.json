@@ -49,8 +49,8 @@
     "nombre": "Snickers",
     "descripcion": "Cookie de chocolate con trozos de Snickers, cacahuate tostado y caramelo cremoso.",
     "precio": 2200,
-    "imagen": "/assets/Galleta%20Ferrero.jpeg",
-    "posicion": "center 66%",
+    "imagen": "/assets/Snickers.jpeg",
+    "posicion": "center",
     "disponible": true
   },
   {
@@ -69,6 +69,24 @@
     "precio": 2200,
     "imagen": "/assets/Choco%20Manjar.jpeg",
     "posicion": "center 58%",
+    "disponible": true
+  },
+  {
+    "id": 9,
+    "nombre": "Ferrero",
+    "descripcion": "Cookie de chocolate intenso con centro cremoso y un bombón Ferrero crujiente.",
+    "precio": 2200,
+    "imagen": "/assets/Ferrero.jpeg",
+    "posicion": "center",
+    "disponible": true
+  },
+  {
+    "id": 10,
+    "nombre": "Bon o Bon",
+    "descripcion": "Cookie suave con chips de chocolate y un cremoso corazón de Bon o Bon.",
+    "precio": 2200,
+    "imagen": "/assets/Bon%20o%20Bon.jpeg",
+    "posicion": "center",
     "disponible": true
   }
 ]
