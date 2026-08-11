@@ -67,8 +67,8 @@
     "nombre": "Choco Manjar",
     "descripcion": "Cookie intensa de chocolate con chips y un irresistible corazón de manjar.",
     "precio": 2200,
-    "imagen": "/assets/Choco%20Manjar.jpeg",
-    "posicion": "center 58%",
+    "imagen": "/assets/Choco_Manjar.jpeg",
+    "posicion": "center",
     "disponible": true
   },
   {
@@ -86,6 +86,15 @@
     "descripcion": "Cookie suave con chips de chocolate y un cremoso corazón de Bon o Bon.",
     "precio": 2200,
     "imagen": "/assets/Bon%20o%20Bon.jpeg",
+    "posicion": "center",
+    "disponible": true
+  },
+  {
+    "id": 11,
+    "nombre": "White Chips",
+    "descripcion": "Cookie dorada y suave, cargada con chips y trozos de chocolate blanco.",
+    "precio": 2200,
+    "imagen": "/assets/White_Chips.jpeg",
     "posicion": "center",
     "disponible": true
   }
