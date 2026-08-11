@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "nombre": "Red Velvet",
+    "descripcion": "Cookie suave de cacao, color rojo intenso y trozos de chocolate blanco.",
+    "precio": 2200,
+    "imagen": "/assets/hero.jpg",
+    "posicion": "55% 20%",
+    "disponible": true
+  },
+  {
+    "id": 2,
+    "nombre": "Amapola",
+    "descripcion": "Cookie delicada con semillas de amapola y trozos de chocolate blanco.",
+    "precio": 2200,
+    "imagen": "/assets/hero.jpg",
+    "posicion": "10% 43%",
+    "disponible": true
+  },
+  {
+    "id": 3,
+    "nombre": "Lotus",
+    "descripcion": "Cookie especiada con trozos de galleta Lotus y sabor caramelizado.",
+    "precio": 2200,
+    "imagen": "/assets/hero.jpg",
+    "posicion": "91% 58%",
+    "disponible": true
+  },
+  {
+    "id": 4,
+    "nombre": "ChocoChip",
+    "descripcion": "La clásica cookie artesanal, cargada con chips de chocolate.",
+    "precio": 2200,
+    "imagen": "/assets/hero.jpg",
+    "posicion": "31% 68%",
+    "disponible": true
+  },
+  {
+    "id": 5,
+    "nombre": "Limón",
+    "descripcion": "Cookie fresca y dulce, con un suave centro cremoso de limón.",
+    "precio": 2200,
+    "imagen": "/assets/hero.jpg",
+    "posicion": "60% 91%",
+    "disponible": true
+  }
+]
