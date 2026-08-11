@@ -13,8 +13,8 @@
     "nombre": "Amapola",
     "descripcion": "Cookie delicada con semillas de amapola y trozos de chocolate blanco.",
     "precio": 2200,
-    "imagen": "/assets/hero.jpg",
-    "posicion": "10% 43%",
+    "imagen": "/assets/Amapolas.jpeg",
+    "posicion": "center 57%",
     "disponible": true
   },
   {
@@ -40,8 +40,8 @@
     "nombre": "Limón",
     "descripcion": "Cookie fresca y dulce, con un suave centro cremoso de limón.",
     "precio": 2200,
-    "imagen": "/assets/hero.jpg",
-    "posicion": "60% 91%",
+    "imagen": "/assets/Pie%20de%20Lim%C3%B3n.jpeg",
+    "posicion": "center 58%",
     "disponible": true
   },
   {
@@ -51,6 +51,24 @@
     "precio": 2200,
     "imagen": "/assets/Galleta%20Ferrero.jpeg",
     "posicion": "center 66%",
+    "disponible": true
+  },
+  {
+    "id": 7,
+    "nombre": "Oreo",
+    "descripcion": "Cookie artesanal con abundantes trozos de galleta Oreo y centro suave.",
+    "precio": 2200,
+    "imagen": "/assets/Oreo.jpeg",
+    "posicion": "center 58%",
+    "disponible": true
+  },
+  {
+    "id": 8,
+    "nombre": "Choco Manjar",
+    "descripcion": "Cookie intensa de chocolate con chips y un irresistible corazón de manjar.",
+    "precio": 2200,
+    "imagen": "/assets/Choco%20Manjar.jpeg",
+    "posicion": "center 58%",
     "disponible": true
   }
 ]
