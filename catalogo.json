@@ -15,7 +15,7 @@
     "precio": 2200,
     "imagen": "/assets/Amapolas.jpeg",
     "posicion": "center 57%",
-    "disponible": true
+    "disponible": false
   },
   {
     "id": 3,
