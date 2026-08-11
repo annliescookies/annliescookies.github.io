@@ -4,8 +4,8 @@
     "nombre": "Red Velvet",
     "descripcion": "Cookie suave de cacao, color rojo intenso y trozos de chocolate blanco.",
     "precio": 2200,
-    "imagen": "/assets/hero.jpg",
-    "posicion": "55% 20%",
+    "imagen": "/assets/Red%20Vervet.jpeg",
+    "posicion": "center 57%",
     "disponible": true
   },
   {
@@ -22,8 +22,8 @@
     "nombre": "Lotus",
     "descripcion": "Cookie especiada con trozos de galleta Lotus y sabor caramelizado.",
     "precio": 2200,
-    "imagen": "/assets/hero.jpg",
-    "posicion": "91% 58%",
+    "imagen": "/assets/Lotus.jpeg",
+    "posicion": "center",
     "disponible": true
   },
   {
@@ -31,8 +31,8 @@
     "nombre": "ChocoChip",
     "descripcion": "La clásica cookie artesanal, cargada con chips de chocolate.",
     "precio": 2200,
-    "imagen": "/assets/hero.jpg",
-    "posicion": "31% 68%",
+    "imagen": "/assets/ChocoChips.jpeg",
+    "posicion": "center",
     "disponible": true
   },
   {
