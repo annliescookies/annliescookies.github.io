@@ -6,7 +6,7 @@
     "precio": 2200,
     "imagen": "/assets/Red%20Vervet.jpeg",
     "posicion": "center 57%",
-    "disponible": true
+    "disponible": false
   },
   {
     "id": 2,
