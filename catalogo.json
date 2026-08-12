@@ -2,6 +2,7 @@
   {
     "id": 1,
     "nombre": "Red Velvet",
+    "categoria": "Clásica",
     "descripcion": "Cookie suave de cacao, color rojo intenso y trozos de chocolate blanco.",
     "precio": "$"2200,
     "imagen": "/assets/Red%20Vervet.jpeg",
@@ -47,6 +48,7 @@
   {
     "id": 6,
     "nombre": "Snickers",
+    "categoria": "PREMIUN",
     "descripcion": "Cookie de chocolate con trozos de Snickers, cacahuate tostado y caramelo cremoso.",
     "precio": 2200,
     "imagen": "/assets/Snickers.jpeg",
