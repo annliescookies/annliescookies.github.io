@@ -3,10 +3,10 @@
     "id": 1,
     "nombre": "Red Velvet",
     "descripcion": "Cookie suave de cacao, color rojo intenso y trozos de chocolate blanco.",
-    "precio": 2200,
+    "precio": "$"2200,
     "imagen": "/assets/Red%20Vervet.jpeg",
     "posicion": "center 57%",
-    "disponible": false
+    "disponible": true
   },
   {
     "id": 2,
@@ -15,7 +15,7 @@
     "precio": 2200,
     "imagen": "/assets/Amapolas.jpeg",
     "posicion": "center 57%",
-    "disponible": false
+    "disponible": true
   },
   {
     "id": 3,
