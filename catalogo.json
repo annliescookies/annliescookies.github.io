@@ -12,6 +12,7 @@
   {
     "id": 2,
     "nombre": "Amapola",
+    "categoria": "Clásica",
     "descripcion": "Cookie delicada con semillas de amapola y trozos de chocolate blanco.",
     "precio": "$2200",
     "imagen": "/assets/Amapolas.jpeg",
@@ -21,6 +22,7 @@
   {
     "id": 3,
     "nombre": "Lotus",
+    "categoria": "Clásica",
     "descripcion": "Cookie especiada con trozos de galleta Lotus y sabor caramelizado.",
     "precio": "$2200",
     "imagen": "/assets/Lotus.jpeg",
@@ -30,6 +32,7 @@
   {
     "id": 4,
     "nombre": "ChocoChip",
+    "categoria": "Clásica",
     "descripcion": "La clásica cookie artesanal, cargada con chips de chocolate.",
     "precio": "$2200",
     "imagen": "/assets/ChocoChips.jpeg",
@@ -39,6 +42,7 @@
   {
     "id": 5,
     "nombre": "Limón",
+    "categoria": "Clásica",
     "descripcion": "Cookie fresca y dulce, con un suave centro cremoso de limón.",
     "precio": "$2200",
     "imagen": "/assets/Pie%20de%20Lim%C3%B3n.jpeg",
@@ -48,7 +52,7 @@
   {
     "id": 6,
     "nombre": "Snickers",
-    "categoria": "PREMIUN",
+    "categoria": "Premium",
     "descripcion": "Cookie de chocolate con trozos de Snickers, cacahuate tostado y caramelo cremoso.",
     "precio": "$2700",
     "imagen": "/assets/Snickers.jpeg",
@@ -58,6 +62,7 @@
   {
     "id": 7,
     "nombre": "Oreo",
+    "categoria": "Clásica",
     "descripcion": "Cookie artesanal con abundantes trozos de galleta Oreo y centro suave.",
     "precio": "$2200",
     "imagen": "/assets/Oreo.jpeg",
@@ -67,6 +72,7 @@
   {
     "id": 8,
     "nombre": "Choco Manjar",
+    "categoria": "Clásica",
     "descripcion": "Cookie intensa de chocolate con chips y un irresistible corazón de manjar.",
     "precio": "$2200",
     "imagen": "/assets/Choco_Manjar.jpeg",
@@ -76,6 +82,7 @@
   {
     "id": 9,
     "nombre": "Ferrero",
+    "categoria": "Premium",
     "descripcion": "Cookie de chocolate intenso con centro cremoso y un bombón Ferrero crujiente.",
     "precio": "$2700",
     "imagen": "/assets/Ferrero.jpeg",
@@ -85,6 +92,7 @@
   {
     "id": 10,
     "nombre": "Bon o Bon",
+    "categoria": "Clásica",
     "descripcion": "Cookie suave con chips de chocolate y un cremoso corazón de Bon o Bon.",
     "precio": "$2200",
     "imagen": "/assets/Bon%20o%20Bon.jpeg",
@@ -94,6 +102,7 @@
   {
     "id": 11,
     "nombre": "White Chips",
+    "categoria": "Clásica",
     "descripcion": "Cookie dorada y suave, cargada con chips y trozos de chocolate blanco.",
     "precio": "$2200",
     "imagen": "/assets/White_Chips.jpeg",
