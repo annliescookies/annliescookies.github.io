@@ -4,7 +4,7 @@
     "nombre": "Red Velvet",
     "categoria": "Clásica",
     "descripcion": "Cookie suave de cacao, color rojo intenso y trozos de chocolate blanco.",
-    "precio": "$"2200,
+    "precio": "$2200",
     "imagen": "/assets/Red%20Vervet.jpeg",
     "posicion": "center 57%",
     "disponible": true
@@ -13,7 +13,7 @@
     "id": 2,
     "nombre": "Amapola",
     "descripcion": "Cookie delicada con semillas de amapola y trozos de chocolate blanco.",
-    "precio": 2200,
+    "precio": "$2200",
     "imagen": "/assets/Amapolas.jpeg",
     "posicion": "center 57%",
     "disponible": true
@@ -22,7 +22,7 @@
     "id": 3,
     "nombre": "Lotus",
     "descripcion": "Cookie especiada con trozos de galleta Lotus y sabor caramelizado.",
-    "precio": 2200,
+    "precio": "$2200",
     "imagen": "/assets/Lotus.jpeg",
     "posicion": "center",
     "disponible": true
@@ -31,7 +31,7 @@
     "id": 4,
     "nombre": "ChocoChip",
     "descripcion": "La clásica cookie artesanal, cargada con chips de chocolate.",
-    "precio": 2200,
+    "precio": "$2200",
     "imagen": "/assets/ChocoChips.jpeg",
     "posicion": "center",
     "disponible": true
@@ -40,7 +40,7 @@
     "id": 5,
     "nombre": "Limón",
     "descripcion": "Cookie fresca y dulce, con un suave centro cremoso de limón.",
-    "precio": 2200,
+    "precio": "$2200",
     "imagen": "/assets/Pie%20de%20Lim%C3%B3n.jpeg",
     "posicion": "center 58%",
     "disponible": true
@@ -50,7 +50,7 @@
     "nombre": "Snickers",
     "categoria": "PREMIUN",
     "descripcion": "Cookie de chocolate con trozos de Snickers, cacahuate tostado y caramelo cremoso.",
-    "precio": 2200,
+    "precio": "$2700",
     "imagen": "/assets/Snickers.jpeg",
     "posicion": "center",
     "disponible": true
@@ -59,7 +59,7 @@
     "id": 7,
     "nombre": "Oreo",
     "descripcion": "Cookie artesanal con abundantes trozos de galleta Oreo y centro suave.",
-    "precio": 2200,
+    "precio": "$2200",
     "imagen": "/assets/Oreo.jpeg",
     "posicion": "center 58%",
     "disponible": true
@@ -68,7 +68,7 @@
     "id": 8,
     "nombre": "Choco Manjar",
     "descripcion": "Cookie intensa de chocolate con chips y un irresistible corazón de manjar.",
-    "precio": 2200,
+    "precio": "$2200",
     "imagen": "/assets/Choco_Manjar.jpeg",
     "posicion": "center",
     "disponible": true
@@ -77,7 +77,7 @@
     "id": 9,
     "nombre": "Ferrero",
     "descripcion": "Cookie de chocolate intenso con centro cremoso y un bombón Ferrero crujiente.",
-    "precio": 2200,
+    "precio": "$2700",
     "imagen": "/assets/Ferrero.jpeg",
     "posicion": "center",
     "disponible": true
@@ -86,7 +86,7 @@
     "id": 10,
     "nombre": "Bon o Bon",
     "descripcion": "Cookie suave con chips de chocolate y un cremoso corazón de Bon o Bon.",
-    "precio": 2200,
+    "precio": "$2200",
     "imagen": "/assets/Bon%20o%20Bon.jpeg",
     "posicion": "center",
     "disponible": true
@@ -95,7 +95,7 @@
     "id": 11,
     "nombre": "White Chips",
     "descripcion": "Cookie dorada y suave, cargada con chips y trozos de chocolate blanco.",
-    "precio": 2200,
+    "precio": "$2200",
     "imagen": "/assets/White_Chips.jpeg",
     "posicion": "center",
     "disponible": true
